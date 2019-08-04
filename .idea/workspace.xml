@@ -2,20 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9279563d-c281-48c7-a28f-89cd0b7c132a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/css/simditor.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/hotkeys.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/module.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/simditor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/uploader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/editor/css/simditor.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/editor/js/hotkeys.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/editor/js/module.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/editor/js/simditor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/editor/js/uploader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/images/topics/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/images/topics/201908/04/1_1564918026_eexLuOkWmW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/images/topics/201908/04/1_1564918833_wgKxIsORfV.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/images/topics/201908/04/1_1564919020_Aha40rqre5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/images/topics/201908/04/1_1564919206_CleshiSEyb.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/images/topics/201908/04/1_1564919252_9jlE0bCVu8.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/images/topics/201908/04/1_1564919309_4jAE0hSlBk.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/_topic_body.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/TopicsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/TopicsController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/mix-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/mix-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/topics/create_and_edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/topics/create_and_edit.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/topics/show.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/topics/show.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +36,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="tsconfig.json" />
+        <option value="SCSS File" />
       </list>
     </option>
   </component>
@@ -143,8 +147,14 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/uploads/images/topics" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/uploads/images/topics" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
